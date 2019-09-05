@@ -11,6 +11,11 @@ The logistic function, also called the sigmoid function was developed by statist
 Where e is the base of the natural logarithms (Euler’s number or the EXP() function in your spreadsheet) and value is the actual numerical value that you want to transform. Below is a plot of the numbers between -5 and 5 transformed into the range 0 and 1 using the logistic function.
 <br>
 <img src="Logistic-Function.png">
+<br>
+<img src="Logistic-Function.png">
+<br>
+<img src="Logistic-Function.png">
+
 
 
 
