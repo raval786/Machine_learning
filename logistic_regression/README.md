@@ -13,3 +13,4 @@ Where e is the base of the natural logarithms (Euler’s number or the EXP() fun
 <img src="Logistic-Function.png">
 
 
+
